@@ -1,10 +1,10 @@
-package com.driques.HU2;
+package com.mingeso.HistoriaDeUsuario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Hu2ApplicationTests {
+class HistoriaDeUsuarioApplicationTests {
 
 	@Test
 	void contextLoads() {
